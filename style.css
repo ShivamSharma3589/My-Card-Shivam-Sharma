@@ -11,6 +11,8 @@ article{
     margin:70px auto ;
     border-radius:10px;
     box-shadow:1px 1px 8px gray,-1px -1px 8px black;
+    user-select:none;
+    -webkit-tap-highlight-color:rgba(255,255,255,0);
 }
 #bg-img{
    height:130px;                    background-image:url("background1.png");
